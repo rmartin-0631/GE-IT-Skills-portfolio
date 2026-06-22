@@ -1,0 +1,165 @@
+# 📚 Vetted Literature Matrix & Critique Log
+
+### AI-Assisted Literature Review with Human Verification
+
+**Mindanao Development Priority: Agricultural Logistics and Rural Market Access in Davao Region**
+
+**Role:** Academic Research Associate
+**Institution Context:** University Research Center / Regional Policy Tank – Davao Region
+**Purpose:** Produce a literature synthesis while manually auditing AI outputs for factual reliability before policy application.
+
+---
+
+# 📌 Project Overview
+
+This project demonstrates a research workflow that combines AI-assisted literature synthesis with human verification.
+
+The objective is not to trust AI-generated summaries automatically, but to evaluate, correct, and document weaknesses before integrating findings into policy recommendations.
+
+Research Theme:
+
+**How agricultural logistics and transport infrastructure influence rural economic productivity in Mindanao.**
+
+---
+
+# 1. Research Workflow
+
+```text id="ez93ul"
+Source Collection
+↓
+AI Literature Summarization
+↓
+Evidence Cross-Checking
+↓
+Human Audit
+↓
+Fabrication Detection
+↓
+Correction & Annotation
+↓
+Verified Literature Matrix
+↓
+Policy Brief Preparation
+```
+
+---
+
+# 2. Literature Matrix
+
+| Source                                | AI Summary                                                                   | Human Verification                                                           | Correction Applied                     | Reliability |
+| :------------------------------------ | :--------------------------------------------------------------------------- | :--------------------------------------------------------------------------- | :------------------------------------- | :---------- |
+| Philippine Development Plan 2023–2028 | AI stated infrastructure expansion alone improves agricultural productivity. | Source emphasized integration of logistics, governance, and market systems.  | Added policy coordination requirement. | Verified    |
+| Mindanao Development Framework        | AI summarized that all provinces benefit equally from logistics investment.  | Document discussed uneven development outcomes across regions.               | Added regional disparity context.      | Corrected   |
+| Davao Regional Development Reports    | AI claimed road access automatically increases farmer income.                | Report indicated access must connect to market systems and support services. | Revised causal language.               | Corrected   |
+| Agricultural Value Chain Studies      | AI generalized findings across all crops.                                    | Original studies differentiated crop requirements and logistics conditions.  | Added sector-specific interpretation.  | Verified    |
+
+---
+
+# 3. AI Fabrication Detection Log
+
+## Issue 01 — Overgeneralization
+
+### AI Claim
+
+> Infrastructure expansion guarantees agricultural growth.
+
+### Audit Result
+
+❌ Unsupported
+
+### Evidence Review
+
+Primary documents describe infrastructure as one component among governance, coordination, financing, and market integration.
+
+### Correction
+
+Infrastructure investment should be interpreted as an enabling condition rather than a guaranteed growth mechanism.
+
+---
+
+## Issue 02 — False Causality
+
+### AI Claim
+
+> Road construction directly improves household income.
+
+### Audit Result
+
+⚠ Partially Supported
+
+### Evidence Review
+
+Improved transport access contributes to opportunity creation but does not ensure income gains.
+
+### Correction
+
+Income outcomes depend on complementary interventions.
+
+---
+
+## Issue 03 — Geographic Bias
+
+### AI Claim
+
+> Solutions from developed economies should be replicated in Mindanao.
+
+### Audit Result
+
+❌ Context Misalignment
+
+### Evidence Review
+
+Regional studies emphasize adaptation to local institutional capacity and infrastructure conditions.
+
+### Correction
+
+Replace imported examples with regionally grounded approaches.
+
+---
+
+# 4. Human Critique Summary
+
+### Strengths of AI Use
+
+* Accelerated document scanning
+* Faster thematic grouping
+* Reduced initial review time
+
+### Weaknesses Identified
+
+* Hallucinated causal relationships
+* Oversimplified economic outcomes
+* Missing contextual qualifiers
+* Tendency toward generic international framing
+
+### Research Standard Applied
+
+Before accepting any AI output:
+
+☐ Verify original publication
+☐ Confirm quotations
+☐ Check methodology
+☐ Validate statistics
+☐ Review local applicability
+☐ Remove unsupported assumptions
+
+---
+
+# 5. Final Assessment
+
+AI demonstrated value as a rapid synthesis tool but was not reliable as a standalone research method.
+
+Human review remained necessary to:
+
+* validate evidence,
+* identify unsupported claims,
+* maintain contextual integrity,
+* and preserve institutional credibility.
+
+This project supports a hybrid research model where AI accelerates review while researchers retain analytical authority.
+
+---
+
+# Repository Tagline
+
+**AI-Assisted Research. Human-Verified Evidence. Policy-Ready Outputs.**
