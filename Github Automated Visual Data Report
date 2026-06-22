@@ -1,0 +1,174 @@
+# 📊 Automated Visual Data Report
+
+### AI-Assisted Data Cleaning & Trend Analysis for Regional Development
+
+**Dataset Focus:** Mindanao Municipal Waste Generation Trends (Mock CSV Analysis)
+
+**Role:** Data Analyst – Regional Development Council / Environmental Monitoring Coalition
+**Audience:** Regional Policymakers and LGU Department Heads
+
+---
+
+## 📌 Project Objective
+
+This project demonstrates how an AI-supported data workflow can rapidly transform a disorganized regional dataset into readable visual intelligence for emergency policy planning.
+
+The objective was to clean structural inconsistencies, isolate meaningful indicators, and produce high-contrast visual outputs appropriate for government decision-making.
+
+---
+
+# 1. Data Cleaning Protocol Log
+
+### Raw Dataset Conditions
+
+The uploaded CSV simulation contained:
+
+* Missing entries across municipal reporting periods
+* Mixed measurement units (tons, kilograms)
+* Duplicate municipality labels
+* Inconsistent date formatting
+* Non-standard numeric separators
+* Empty category cells
+
+---
+
+### AI Cleaning Instructions
+
+```text id="4x9m2o"
+Scan the dataset.
+
+Standardize all measurement units into Metric Tons (MT).
+
+Identify missing values and apply median replacement by municipality category.
+
+Remove duplicate observations.
+
+Normalize date formatting to YYYY.
+
+Trim invalid spaces and harmonize municipality naming.
+
+Export cleaned structure for analysis.
+```
+
+---
+
+### Structural Adjustments Applied
+
+| Issue             | Cleaning Action            | Result                                |
+| :---------------- | :------------------------- | :------------------------------------ |
+| Missing Values    | Median imputation          | Completed missing annual observations |
+| Mixed Units       | Converted to Metric Tons   | Unified reporting scale               |
+| Duplicate Records | Removed duplicates         | Reduced redundancy                    |
+| Formatting Errors | Standardized labels        | Improved grouping                     |
+| Invalid Dates     | Converted to annual format | Enabled trend analysis                |
+
+### Cleaning Outcome
+
+* Raw records: **145**
+* Valid records after cleaning: **132**
+* Fields normalized: **6**
+* Data retention rate: **91%**
+
+---
+
+# 2. Visualizations Generated
+
+## Chart A — Municipal Waste Generation Trend (2020–2025)
+
+```text id="g0m4fu"
+High-Contrast Line Chart
+
+Y-Axis:
+Waste Generated (MT)
+
+X-Axis:
+Year
+
+Observed Pattern:
+Gradual increase beginning 2021
+Sharp acceleration during 2023–2024
+Moderate stabilization by 2025
+```
+
+---
+
+### Visual Placeholder
+
+```mermaid id="ab1dtv"
+xychart-beta
+title "Municipal Waste Generation Trend"
+
+x-axis [2020,2021,2022,2023,2024,2025]
+
+y-axis "Metric Tons" 0 --> 800
+
+line [220,260,310,470,620,610]
+```
+
+---
+
+## Chart B — Waste Composition Distribution by Category
+
+```text id="mxr8fe"
+High-Contrast Horizontal Bar Chart
+
+Categories:
+Organic
+Plastic
+Residual
+Recyclable
+Industrial
+```
+
+---
+
+### Visual Placeholder
+
+```mermaid id="7a8lxm"
+xychart-beta
+title "Waste Composition Share"
+
+x-axis "Metric Tons" 0 --> 400
+
+bar [360,250,170,120,80]
+```
+
+---
+
+# 3. Human Analytical Narrative (Policy Interpretation)
+
+The automated trend analysis identified a sustained increase in municipal waste generation beginning in 2023. While an initial AI interpretation associated this growth with population expansion alone, manual review introduced a more context-sensitive explanation.
+
+Regional development patterns in Mindanao indicate that increased commercial activity, urban expansion, and changing consumption behavior can collectively influence municipal waste output.
+
+The composition chart shows that organic and plastic waste remain dominant categories, suggesting that infrastructure investments should prioritize:
+
+* decentralized material recovery facilities,
+* barangay-level segregation systems,
+* and expanded collection logistics.
+
+The findings support targeted environmental budgeting rather than uniform regional allocation.
+
+---
+
+# 4. Policy Recommendation Snapshot
+
+### Immediate Actions
+
+1. Expand municipal waste monitoring frequency.
+2. Prioritize segregation infrastructure in growth centers.
+3. Introduce standardized regional reporting formats.
+
+---
+
+# 5. Portfolio Reflection
+
+AI accelerated structural cleaning and pattern detection, but human interpretation remained necessary to connect observed trends with actual socio-environmental conditions.
+
+The combined workflow produced a report that is faster than manual processing while preserving policy usability.
+
+---
+
+## Repository Tagline
+
+**Clean Data → Clear Decisions → Stronger Regional Development**
